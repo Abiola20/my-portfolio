@@ -52,6 +52,14 @@
   footer {
     height: 40vh;
   }
+  nav{
+    position: static;
+  }
+  .profile-pic{
+  border-radius: 50%;
+  height: 80%;
+  width: 80%;
+}
   #profile {
     height: 83vh;
     margin-bottom: 0;
